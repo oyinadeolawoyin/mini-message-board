@@ -19,3 +19,6 @@ This app allows users to view and post messages on a shared board. Messages disp
 - Express
 - EJS (Embedded JavaScript templating)
 - CSS
+
+## Go live
+- https://mini-message-board-iex6.onrender.com
