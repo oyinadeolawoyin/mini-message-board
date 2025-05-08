@@ -4,7 +4,7 @@ A basic message board web application built with Node.js, Express, and EJS as pa
 
 ## 📝 Description
 
-This app allows users to view and post messages on a shared board. Messages display the author's name, content, and the date they were added. Users can also view details of individual messages on a separate page.
+This app allow users to view and post messages on a shared board. Messages display the author's name, content, and the date they were added. Users can also view details of individual messages on a separate page.
 
 ## 🚀 Features
 
@@ -17,8 +17,6 @@ This app allows users to view and post messages on a shared board. Messages disp
 
 - Node.js
 - Express
+- PostgreSQL
 - EJS (Embedded JavaScript templating)
 - CSS
-
-## Go live
-- https://mini-message-board-iex6.onrender.com
